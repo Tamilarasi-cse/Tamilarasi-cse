@@ -1,4 +1,4 @@
-[![MasterHead]()]
+
 
 <h1 align="center">Hi 👋, I'm Tamilarasi</h1>
 <h3 align="center">Passionate about leveraging technology</h3>
