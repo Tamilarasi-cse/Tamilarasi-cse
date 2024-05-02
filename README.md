@@ -7,9 +7,9 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif">
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning ** Django**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
