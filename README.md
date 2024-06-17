@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamilarasi-cse&show_icons=true&locale=en" alt="tamilarasi-cse" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamilarasi-cse" alt="tamilarasi-cse" /></a> </p>
+
