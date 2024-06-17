@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamilarasi-cse&show_icons=true&locale=en&layout=compact" alt="tamilarasi-cse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamilarasi-cse&show_icons=true&locale=en" alt="tamilarasi-cse" /></p>
+
 
 
